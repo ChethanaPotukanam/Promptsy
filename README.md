@@ -1,4 +1,4 @@
-# SnapSite
+# Promptsy
 
 ![Promptsy Banner](https://drive.google.com/uc?export=view&id=1LzlTzGBhKC7xwqmKMJr_Rlzaw5tSNHtz)
 
